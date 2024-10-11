@@ -15,7 +15,8 @@ __MACOSX/
 *XL*
 _build/
 jupyter/text/_build/
-
+.env/
+*.gif
 # Personal
 HELP.md
 
